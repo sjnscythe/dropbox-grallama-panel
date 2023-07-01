@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "Dropbox Grallama Panel",
+  "id": "testbugcrowdpoc-dropboxgrallama-panel",
+  "info": {
+    "keywords": ["panel"],
+    "description": "It is a po c to keep dropbox safe",
+    "author": {
+      "name": "Test bugcrowdpoc"
+    },
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=9.5.3",
+    "plugins": []
+  }
+}
