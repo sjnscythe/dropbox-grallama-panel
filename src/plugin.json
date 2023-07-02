@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "Dropbox Grallama Panel",
-  "id": "testorg-dropboxgrallama-panel",
+  "id": "sjnscythe-dropboxgrallama-panel",
   "info": {
     "keywords": ["panel"],
     "description": "It is a po c to keep dropbox safe",
@@ -15,7 +15,7 @@
     },
     "links": [],
     "screenshots": [],
-    "version": "1.0.3",
+    "version": "1.0.4",
     "updated": "%TODAY%"
   },
   "dependencies": {
