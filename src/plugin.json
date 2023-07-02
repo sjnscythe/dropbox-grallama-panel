@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "Dropbox Grallama Panel",
-  "id": "testbugcrowdpoc-dropboxgrallama-panel",
+  "id": "testorg-dropboxgrallama-panel",
   "info": {
     "keywords": ["panel"],
     "description": "It is a po c to keep dropbox safe",
